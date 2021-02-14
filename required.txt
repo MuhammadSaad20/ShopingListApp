@@ -1,0 +1,25 @@
+npm install -g expo-cli  or npm install expo-cli --global <recommended>
+Expo CLI is a command-line app that is the main interface between a developer and Expo tools.
+check installation,
+expo  --version
+expo init <proj name>
+select blank <as a minimal app>
+cd navigate Proj dir
+npm start
+
+->If an error occurs run cmd as admin and run the following commands
+ npm cache clean --force
+ npm install -g npm@latest --force
+ npm cache clean --force
+
+
+-> Run android simulator 
+->
+.npm i @expo/vector-icons
+.npm install uuidv4
+.
+.
+.
+.
+.
+.
